@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// chip widget is used to display a small piece of information.
+
 void main() {
   runApp(const MyApp());
 }
@@ -11,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text('Wrap + Chip Tutorial')),
+        appBar: AppBar(title: const Text('Wrap Chip Tutorial')),
         body: Padding(
           padding: const EdgeInsets.all(16.0),
           child: Wrap(
