@@ -63,6 +63,21 @@ Run the app:
 flutter run
 ```
 
+### Screenshots
+Here's what the app looks like when running:
+
+<img src="images/Capture.PNG" alt="Main App Screenshot" width="300"/>
+
+*Main demo showing all chip types in action*
+
+<img src="images/1Capture.PNG" alt="App Screenshot 1" width="300"/>
+
+*Detailed view of chip interactions*
+
+<img src="images/2Capture.PNG" alt="App Screenshot 2" width="300"/>
+
+*Another view showing different states*
+
 ### Tips for explaining this in an interview/class
 - **Start with layout**: `Wrap` vs. `Row`/`Column` — `Wrap` auto-flows items to the next line.
 - **Then chips**: Purpose of each chip variant and common UX patterns.
@@ -73,3 +88,5 @@ flutter run
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - [Flutter documentation](https://docs.flutter.dev/)
+
+
